@@ -2,3 +2,6 @@
 testing and learning git
 
 #first commit
+Name: Siddharth Yadav
+Email Id: ysiddharth0405@gmail.com
+Github: siddhath2611
