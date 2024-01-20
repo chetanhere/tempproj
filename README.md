@@ -50,3 +50,8 @@ testing and learning git
   - Aayush894
   - aayush.2125cs1015@kiet.edu
   - 8287353295
+
+- Akanksha Gupta
+  - ag6389936@gmail.com
+  - Akanksha038
+  - 9118317766
