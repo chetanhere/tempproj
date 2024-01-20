@@ -3,6 +3,7 @@ testing and learning git
 
 #first commit
 
-email id: Akanksha Gupta
-email id: ag6389936@gmail.com
-githubid: https://github.com/Akanksha038
+Name: Akanksha Gupta
+Email id: ag6389936@gmail.com
+Github id: https://github.com/Akanksha038
+Contact No. : 9118317766
