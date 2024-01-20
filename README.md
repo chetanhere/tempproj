@@ -1,4 +1,5 @@
 # tempproj
+
 testing and learning git
 # Collaborator IDs
 
@@ -103,3 +104,8 @@ testing and learning git
   - niyati.kansal22@gmail.com
   - niyatikansal
   - 9266641123
+
+- Satyarshi Shukla
+  - satyarshishukla123@gmail.com
+  - Satyarshi
+  - 9369732528
