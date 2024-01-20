@@ -78,3 +78,9 @@ testing and learning git
 - Adarsh Tiwari
   - adarsh.2226cs1009@kiet.edu
   - adarsh1278
+
+- Siddharth Yadav
+  - ysiddharth0405@gmail.com
+  - siddhath2611
+  - 9580537881
+
