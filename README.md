@@ -15,3 +15,8 @@ testing and learning git
   - anushree.ghosh2003@gmail.com
   - anushreeghosh123
   - 7827275964
+
+- Swati Mishra
+  - swatimishra0247@gmail.com
+  - StarGrayy
+  - 9264929564
