@@ -25,3 +25,8 @@ testing and learning git
   - apurwa.2125cs1139@kiet.edu
   - Apurwapandey07
   - 8579083400
+
+- Arpan Jain
+  - arpanjain595@gmail.com
+  - arpan595jain
+  - 7454040400
