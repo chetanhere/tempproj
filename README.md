@@ -2,6 +2,11 @@
 testing and learning git
 # Collaborator IDs
 
+- nitya malviya
+  - nityamalviya360@gmail.com
+  - nityamalviya28
+  - 8601634808
+
 - Riya Sharma
   - sharmariya5808@gmail.com
   - riya0701
@@ -15,7 +20,7 @@ testing and learning git
   - anushree.ghosh2003@gmail.com
   - anushreeghosh123
   - 7827275964
-
+ 
 - Swati Mishra
   - swatimishra0247@gmail.com
   - StarGrayy
