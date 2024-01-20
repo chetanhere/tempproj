@@ -84,3 +84,7 @@ testing and learning git
   - siddhath2611
   - 9580537881
 
+- satyam singh
+  - satyam015singh@gmail.com
+  - satyam-singh03
+  - 9580742177
