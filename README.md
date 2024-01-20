@@ -30,3 +30,8 @@ testing and learning git
   - arpanjain595@gmail.com
   - arpan595jain
   - 7454040400
+
+- Sharandeep Meharwal
+  - sharandeepmeharwal01@gmail.com
+  - SharanMeharwal
+  - 8445844888
