@@ -46,3 +46,7 @@ testing and learning git
   - himanshu-sharmav
   - 8738059086
 
+- Aayush Kumar Shrivastava
+  - Aayush894
+  - aayush.2125cs1015@kiet.edu
+  - 8287353295
