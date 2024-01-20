@@ -2,3 +2,6 @@
 testing and learning git
 
 #first commit
+name: Nikhil Saxena
+email id: nikhilsaxena9987@gmail.com
+github id: Cleveridiot07
