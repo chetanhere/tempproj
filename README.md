@@ -1,8 +1,17 @@
 # tempproj
 testing and learning git
+# Collaborator IDs
 
-#first commit
-Name : Anushree Ghosh
-email:anushree.ghosh2003@gmail.com
-github id:https://github.com/anushreeghosh123
-mobileno:7827275964
+- Riya Sharma
+  - sharmariya5808@gmail.com
+  - riya0701
+
+- Sarvin Shrivastava
+  - sarvin5124@gmail.com
+  - sarvinshrivastava
+  - 9310524050
+
+- Anushree Ghosh
+  - anushree.ghosh2003@gmail.com
+  - anushreeghosh123
+  - 7827275964
